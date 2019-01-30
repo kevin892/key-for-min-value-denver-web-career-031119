@@ -9,6 +9,8 @@ def key_for_min_value(name_hash)
        low = age
        low_name = name
      end
+     low = nil
+     low_name = nil
    end
    low_name
  end
